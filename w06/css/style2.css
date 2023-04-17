@@ -1,0 +1,25 @@
+*{
+    font-family: 'Bangers', cursive;
+}
+
+body {
+    margin: 0 ;
+    background-color: rgb(255, 218, 224);
+}
+
+
+#grid {
+    display: grid;
+    grid-template-columns : 1fr 2fr;
+}
+
+
+#Diary {
+    color: rgb(252, 60, 223);
+    font-size: 40px;
+    text-align: center;
+}
+
+.Info {
+    font-size : medium;
+}

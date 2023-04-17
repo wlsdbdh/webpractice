@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Bangers', cursive;
+}
+
+body {
+    margin: 0 ;
+    background-color: rgb(255, 218, 224);
+}
+
+.login-form {
+    color: rgb(255, 71, 227) ;
+    width: 300px;
+    border: 0;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.text-field {
+    font-size: 14px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px; 
+    width : 100%;
+    background-color: whitesmoke;
+}
+
+.submit-btn {
+    font-size: 14px;
+    margin-bottom: 30px;
+    padding : 10px;
+    border-radius: 5px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.links {
+    text-align : center;
+}
+
+.links a{
+    font-size: 12px;
+}

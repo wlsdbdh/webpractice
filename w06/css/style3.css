@@ -1,0 +1,14 @@
+*{
+    font-family: 'Bangers', cursive;
+}
+
+body {
+    margin: 0 ;
+    background-color: rgb(255, 218, 224);
+}
+
+
+#grid {
+    display: grid;
+    grid-template-columns : 1fr 2fr;
+}
