@@ -1,4 +1,4 @@
-function nighDayHandler(self){
+function nightDayHandler(self){
     var target = document.querySelector('body');      
     if(self.value == 'day'){
       target.style.backgroundColor = 'white';
